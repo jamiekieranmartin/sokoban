@@ -1,22 +1,3 @@
-"""
-
-    2020 CAB320 Sokoban assignment
-
-
-The functions and classes defined in this module will be called by a marker script.
-You should complete the functions and classes according to their specified interfaces.
-No partial marks will be awarded for functions that do not meet the specifications
-of the interfaces.
-
-
-You are NOT allowed to change the defined interfaces.
-That is, changing the formal parameters of a function will break the
-interface and results in a fail for the test of your code.
-This is not negotiable!
-
-
-"""
-
 # You have to make sure that your code works with 
 # the files provided (search.py and sokoban.py) as your code will be tested 
 # with these files
